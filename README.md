@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammadreza Kazemi</h1>
 <h3 align="center">A frontend developer from Iran</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mmdrezakz&label=Profile%20views&color=0e75b6&style=flat" alt="mmdrezakz" /> </p>
-<p style=display:"flex" align="right"> <img src="https://i.gifer.com/1fZB.gif" alt="mmdrezakz" /> </p>
-
+<p align="left" display="flex"> <img src="https://komarev.com/ghpvc/?username=mmdrezakz&label=Profile%20views&color=0e75b6&style=flat" alt="mmdrezakz" /> </p>
 
 - 🌱 I’m currently learning **React , Redux, Next.js**
 
