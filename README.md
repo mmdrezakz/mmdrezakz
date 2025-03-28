@@ -23,4 +23,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mmdrezakz&show_icons=true&locale=en" alt="mmdrezakz" /></p>
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mmdrezakz)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mmdrezakz&show_icons=true&locale=en)](https://github.com/anuraghazra/github-readme-stats)
