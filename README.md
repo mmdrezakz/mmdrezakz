@@ -22,5 +22,5 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmdrezakz&theme=react&show_icons=true&hide_border=true&layout=compact" alt="mmdrezakz's GitHub Stats" />
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=mmdrezakz&theme=react&show_icons=true&hide_border=true&count_private=true" alt="mmdrezakz's GitHub Stats" />
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=algolia)](https://github.com/piyushsuthar/github-readme-quotes)
