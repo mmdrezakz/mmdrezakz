@@ -21,3 +21,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mmdrezakz&show_icons=true&locale=en&layout=compact" alt="mmdrezakz" /></p>
 
+<img src="https://github-readme-stats.vercel.app/api?username=mmdrezakz&theme=react&show_icons=true&hide_border=true&count_private=true" alt="mmdrezakz's GitHub Stats" />
