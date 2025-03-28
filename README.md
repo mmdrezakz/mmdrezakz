@@ -1,4 +1,4 @@
-<img align="center" width="90%" src="https://pouch.jumpshare.com/preview/bvQ0zUXpsTa50KaBMAjzvrNbEFLC2RH_nbztEKrVS2jYjBhvvcLTF9LnCb1TWgD1CWn4wLZz7vyGRs4oPm6_uxM5xNqrhAiOXXj9K3-MbT8" alt="mmdrezakz" />
+<p align="center" width="90%"><img align="center"  src="https://pouch.jumpshare.com/preview/bvQ0zUXpsTa50KaBMAjzvrNbEFLC2RH_nbztEKrVS2jYjBhvvcLTF9LnCb1TWgD1CWn4wLZz7vyGRs4oPm6_uxM5xNqrhAiOXXj9K3-MbT8" alt="mmdrezakz" /></p>
 <h3 align="center">A frontend developer from Iran</h3>
 <img align="right" src="https://camo.githubusercontent.com/7209f07eca65e9c6dd791bc2b141b42c4d0aede1c3237242ee68dfde4a68fd74/68747470733a2f2f692e67696665722e636f6d2f334179592e676966" alt="mmdrezakz" />
 <p align="left" display="flex"> <img src="https://komarev.com/ghpvc/?username=mmdrezakz&label=Profile%20views&color=0e75b6&style=flat" alt="mmdrezakz" /> </p>
@@ -22,4 +22,5 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmdrezakz&theme=react&show_icons=true&hide_border=true&layout=compact" alt="mmdrezakz's GitHub Stats" />
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=mmdrezakz&theme=react&show_icons=true&hide_border=true&count_private=true" alt="mmdrezakz's GitHub Stats" />
-<img align="right" width="300" height="300" align="right" src="https://raw.githubusercontent.com/raghavk16/raghavk16/master/giphy.webp" />
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
