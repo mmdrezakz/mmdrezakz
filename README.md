@@ -22,4 +22,4 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmdrezakz&theme=react&show_icons=true&hide_border=true&layout=compact" alt="mmdrezakz's GitHub Stats" />
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=mmdrezakz&theme=react&show_icons=true&hide_border=true&count_private=true" alt="mmdrezakz's GitHub Stats" />
-<img width="40" height="40" align="right" src="https://raw.githubusercontent.com/raghavk16/raghavk16/master/giphy.webp" />
+<img width="300" height="300" align="right" src="https://raw.githubusercontent.com/raghavk16/raghavk16/master/giphy.webp" />
