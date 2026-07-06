@@ -78,7 +78,7 @@
 | پروژه | توضیح | تکنولوژی‌ها | لینک |
 |-------|-------|------------|------|
 | 💬 **Chat App** | اپلیکیشن چت زمان‌واقعی با احراز هویت، نوتیفیکیشن و دارک مود | Next.js, Supabase, Tailwind, TypeScript | [مشاهده](https://chat-app-seven-tau-26.vercel.app/) |
-| 🌐 **فاراده** | سایت فول‌استک خدمات دیجیتال | Next.js, Tailwind, TypeScript | [مشاهده](https://faraede.vercel.app/) |
+| 🌐 **فراایده** | سایت فول‌استک خدمات دیجیتال | Next.js, Tailwind, TypeScript  [مشاهده](https://faraede.vercel.app/) |
 | 🔜 **پروژه بعدی** | به زودی... | - | - |
 
 ---
