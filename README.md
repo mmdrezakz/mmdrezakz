@@ -78,6 +78,7 @@
 | پروژه | توضیح | تکنولوژی‌ها | لینک |
 |-------|-------|------------|------|
 | 💬 **Chat App** | اپلیکیشن چت زمان‌واقعی با احراز هویت، نوتیفیکیشن و دارک مود | Next.js, Supabase, Tailwind, TypeScript | [مشاهده](https://chat-app-seven-tau-26.vercel.app/) |
+| 🌐 **فاراده** | سایت فول‌استک خدمات دیجیتال | Next.js, Tailwind, TypeScript | [مشاهده](https://faraede.vercel.app/) |
 | 🔜 **پروژه بعدی** | به زودی... | - | - |
 
 ---
@@ -85,9 +86,6 @@
 ## 📱 راه‌های ارتباطی
 
 <p align="center">
-  <a href="https://instagram.com/mamrez.kz" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
   <a href="mailto:mellboybeatprod@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
