@@ -1,5 +1,5 @@
-<p align="center" width="90%">
-  <img align="center" src="https://pouch.jumpshare.com/preview/bvQ0zUXpsTa50KaBMAjzvrNbEFLC2RH_nbztEKrVS2jYjBhvvcLTF9LnCb1TWgD1CWn4wLZz7vyGRs4oPm6_uxM5xNqrhAiOXXj9K3-MbT8" alt="mmdrezakz" width="180"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFAA&center=true&vCenter=true&width=500&lines=%F0%9F%91%8B+%D8%B3%D9%84%D8%A7%D9%85!+%D9%85%D9%86+%D9%85%D8%AD%D9%85%D8%AF%D8%B1%D8%B6%D8%A7+%D9%87%D8%B3%D8%AA%D9%85;%F0%9F%92%BB+Frontend+Developer;%F0%9F%9A%80+Next.js+%7C+React+%7C+TypeScript;%E2%9C%A8+Always+coding+%26+learning" alt="Typing SVG" />
 </p>
 
 <h1 align="center">👋 سلام! من محمد‌رضا کریم‌زاده هستم</h1>
