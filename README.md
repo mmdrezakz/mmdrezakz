@@ -1,9 +1,9 @@
 <p align="center" width="90%">
-  <img align="center" src="https://pouch.jumpshare.com/preview/bvQ0zUXpsTa50KaBMAjzvrNbEFLC2RH_nbztEKrVS2jYjBhvvcLTF9LnCb1TWgD1CWn4wLZz7vyGRs4oPm6_uxM5xNqrhAiOXXj9K3-MbT8" alt="mmdrezakz" width="200"/>
+  <img align="center" src="https://pouch.jumpshare.com/preview/bvQ0zUXpsTa50KaBMAjzvrNbEFLC2RH_nbztEKrVS2jYjBhvvcLTF9LnCb1TWgD1CWn4wLZz7vyGRs4oPm6_uxM5xNqrhAiOXXj9K3-MbT8" alt="mmdrezakz" width="180"/>
 </p>
 
 <h1 align="center">👋 سلام! من محمد‌رضا کریم‌زاده هستم</h1>
-<h3 align="center">توسعه‌دهنده فرانت‌اند | عاشق تکنولوژی‌های جدید</h3>
+<h3 align="center">توسعه‌دهنده فرانت‌اند | عاشق کدنویسی و تکنولوژی‌های جدید</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mmdrezakz&label=بازدید%20پروفایل&color=0e75b6&style=flat" alt="mmdrezakz" />
@@ -16,73 +16,44 @@
 
 ## 🚀 درباره من
 
-<img align="right" src="https://camo.githubusercontent.com/7209f07eca65e9c6dd791bc2b141b42c4d0aede1c3237242ee68dfde4a68fd74/68747470733a2f2f692e67696665722e636f6d2f334179592e676966" alt="coding" width="400" />
-
-- 🌱 در حال یادگیری **Next.js, Node.js, TypeScript**
-- 👨‍💻 همه پروژه‌های من: [https://github.com/mmdrezakz?tab=repositories](https://github.com/mmdrezakz?tab=repositories)
-- 💬 از من بپرسید درباره: **React, JavaScript, HTML/CSS, Tailwind, Bootstrap**
+- 👨‍💻 توسعه‌دهنده فرانت‌اند با عشق به کدنویسی
+- 🔥 علاقه‌مند به **React, Next.js, TypeScript**
+- 💬 از من بپرسید درباره: **React, JavaScript, Tailwind, Shadcn/ui**
 - 📫 راه ارتباطی: **mellboybeatprod@gmail.com**
-- ⚡ واقعیت جالب: عاشق کدنویسی و یادگیری تکنولوژی‌های جدید هستم!
+- ⚡ همیشه در حال یادگیری و ساخت پروژه‌های جدید
 
 ---
 
-## 🛠️ تکنولوژی‌هایی که بلدم
+## 🛠️ تکنولوژی‌ها و ابزارها
 
 ### فرانت‌اند
 <p align="center">
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js" alt="Next.js"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react" alt="React"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript" alt="TypeScript"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript" alt="JavaScript"/>
-  </a>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react" alt="React"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript" alt="JavaScript"/>
 </p>
 
 <p align="center">
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css" alt="Tailwind"/>
-  </a>
-  <a href="https://ui.shadcn.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Shadcn/ui-000000?style=for-the-badge&logo=shadcnui" alt="Shadcn/ui"/>
-  </a>
-  <a href="https://mui.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui" alt="MUI"/>
-  </a>
-  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap" alt="Bootstrap"/>
-  </a>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css" alt="Tailwind"/>
+  <img src="https://img.shields.io/badge/Shadcn/ui-000000?style=for-the-badge&logo=shadcnui" alt="Shadcn/ui"/>
+  <img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui" alt="MUI"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap" alt="Bootstrap"/>
 </p>
 
 ### بک‌اند و دیتابیس
 <p align="center">
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python" alt="Python"/>
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql" alt="PostgreSQL"/>
-  </a>
-  <a href="https://www.prisma.io/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma" alt="Prisma"/>
-  </a>
-  <a href="https://supabase.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase" alt="Supabase"/>
-  </a>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python" alt="Python"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma" alt="Prisma"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase" alt="Supabase"/>
 </p>
 
-### ابزارهای دیگر
+### ابزارها
 <p align="center">
-  <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux" alt="Redux"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git" alt="Git"/>
-  </a>
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux" alt="Redux"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git" alt="Git"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel" alt="Vercel"/>
 </p>
 
 ---
@@ -90,22 +61,24 @@
 ## 📊 آمار گیت‌هاب
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mmdrezakz&theme=react&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmdrezakz&layout=compact&theme=react&hide_border=true" alt="Top Languages" width="42%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mmdrezakz&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmdrezakz&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="40%"/>
 </div>
 
+<br/>
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mmdrezakz&theme=react&hide_border=true" alt="GitHub Streak" width="60%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mmdrezakz&theme=radical&hide_border=true" alt="GitHub Streak" width="60%"/>
 </div>
 
 ---
 
-## 🏆 پروژه‌های برتر
+## 🏆 پروژه‌های من
 
-| پروژه | تکنولوژی‌ها | توضیح |
-|-------|------------|-------|
-| [Chat App](https://github.com/mmdrezakz/chat-app) | Next.js, Supabase, Tailwind, TypeScript | اپلیکیشن چت زمان‌واقعی با احراز هویت و دارک مود |
-| [پروژه بعدی] | React, TypeScript, Tailwind | ... |
+| پروژه | توضیح | تکنولوژی‌ها | لینک |
+|-------|-------|------------|------|
+| 💬 **Chat App** | اپلیکیشن چت زمان‌واقعی با احراز هویت، نوتیفیکیشن و دارک مود | Next.js, Supabase, Tailwind, TypeScript | [مشاهده](https://chat-app-seven-tau-26.vercel.app/) |
+| 🔜 **پروژه بعدی** | به زودی... | - | - |
 
 ---
 
@@ -128,14 +101,14 @@
 ## ✍️ نقل قول روز
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia" alt="Random Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote"/>
 </div>
 
 ---
 
 <div align="center">
   
-**⭐ از پروژه‌های من حمایت کنید با زدن ستاره ⭐**
+**⭐ خوشحال میشم پروژه‌هامو ببینید و نظراتتون رو بگید ⭐**
 
 **ساخته شده با ❤️ و کد**
 
